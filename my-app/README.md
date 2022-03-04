@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
+¡Bienvenidos a nuestros gran proyecto!
 este proyecto nos ayudará a aprender react.
+
 
 ## Available Scripts
 
